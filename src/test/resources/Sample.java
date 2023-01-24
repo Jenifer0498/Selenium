@@ -16,4 +16,11 @@ private void tc4() {
 }private void tc6() {
 	System.out.println("Best one");
 }
+private void tc1() {
+	System.out.println("Dad");
+private void tc1() {
+	System.out.println("is my ");
+private void tc1() {
+	System.out.println("Hero");
+
 }
